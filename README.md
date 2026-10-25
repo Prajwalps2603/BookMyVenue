@@ -13,9 +13,11 @@
 ![Express](https://img.shields.io/badge/Express-API-000000?logo=express&logoColor=white)
 ![JWT](https://img.shields.io/badge/Auth-JWT-D63AFF?logo=jsonwebtokens&logoColor=white)
 ![Tests](https://img.shields.io/badge/tests-20%20passing-2e9e5e)
-![Live](https://img.shields.io/badge/demo-live-C9952A)
+[![Live demo](https://img.shields.io/badge/demo-live%20now-C9952A?logo=githubpages&logoColor=white)](https://prajwalps2603.github.io/BookMyVenue/)
 
-### 🌐 **[Try it live → prajwalps2603.github.io/BookMyVenue](https://prajwalps2603.github.io/BookMyVenue/)**
+<a href="https://prajwalps2603.github.io/BookMyVenue/"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20OPEN%20THE%20LIVE%20SITE-8B1A2E?style=for-the-badge" alt="Open the live site" /></a>
+
+**https://prajwalps2603.github.io/BookMyVenue/**
 
 *No install, no sign-up: tap **⚡ Continue with Demo Account** and start booking.*
 
@@ -30,6 +32,8 @@ Planning an event usually means a dozen phone calls, a spreadsheet, and the fear
 and get a ticket, with the server making sure **no two people can ever book the same day**.
 
 ## 🌐 Live demo vs. full version
+
+👉 **Live demo: https://prajwalps2603.github.io/BookMyVenue/**
 
 | | **Live demo** (GitHub Pages) | **Full version** (`npm run dev`) |
 |---|---|---|
@@ -48,7 +52,7 @@ npm install
 npm run dev        # API on :5000 + web app on :5173, started together
 ```
 
-Open **http://localhost:5173** and click **⚡ Continue with Demo Account** on the sign-in page.
+Prefer not to install anything? Use the [live site](https://prajwalps2603.github.io/BookMyVenue/). Otherwise open **http://localhost:5173** and click **⚡ Continue with Demo Account** on the sign-in page.
 
 | Who         | How to get in                                                            |
 | ----------- | ------------------------------------------------------------------------ |
@@ -138,6 +142,8 @@ src/
 ---
 
 <div align="center">
+
+🌐 **[Live demo](https://prajwalps2603.github.io/BookMyVenue/)** · 💻 **[Source](https://github.com/Prajwalps2603/BookMyVenue)**
 
 Built with ☕ and a lot of 🎉 by **[Prajwal](https://github.com/Prajwalps2603)**
 
